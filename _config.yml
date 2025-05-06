@@ -98,7 +98,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
-language: zh-CN
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
